@@ -1,0 +1,115 @@
+Timestamp,Image Name,Prediction,Confidence
+2025-04-23 03:26:03,f790b5c0-15b7-4adc-916f-fd4add9a72dd___GCREC_Bact.Sp 3128.JPG,Tomato___Bacterial_spot,
+2025-04-23 03:30:08,f8837b91-daf0-458c-b997-02839c828d99___GCREC_Bact.Sp 3248.JPG,Tomato___Bacterial_spot,
+2025-04-23 16:39:07,f6b99987-84a9-41a9-914d-538250b5f5a5___Com.G_TgS_FL 7971.JPG,Tomato___Target_Spot,
+2025-04-23 22:45:28,a2c707e2-c1d5-49b8-8b4a-cd517b5aa1a0___Com.G_TgS_FL 9843.JPG,Tomato___Target_Spot,
+2025-04-23 22:57:30,Screenshot 2025-04-23 225605.png,Tomato___Septoria_leaf_spot,
+2025-04-23 23:00:31,Screenshot 2025-04-23 225838.png,Tomato___Late_blight,
+2025-04-23 23:02:43,Screenshot 2025-04-23 230146.png,Tomato___Late_blight,
+2025-04-23 23:02:58,Tomato Septoria Leaf Spot2025-04-23 225605.png,Tomato___Septoria_leaf_spot,
+2025-04-23 23:04:47,Screenshot 2025-04-23 230146.png,Tomato___Late_blight,
+2025-04-23 23:04:54,Tomato Septoria Leaf Spot2025-04-23 225605.png,Tomato___Septoria_leaf_spot,
+2025-04-23 23:04:57,Screenshot 2025-04-23 230146.png,Tomato___Late_blight,
+2025-04-23 23:04:59,Screenshot 2025-04-23 230146.png,Tomato___Late_blight,
+2025-04-23 23:06:40,Screenshot 2025-04-23 225838.png,Tomato___Late_blight,
+2025-04-23 23:47:46,Screenshot 2025-04-23 225838.png,Tomato___Late_blight,
+2025-04-23 23:52:05,Screenshot 2025-04-23 225838.png,Tomato___Late_blight,
+2025-04-23 23:52:24,Screenshot 2025-04-23 231413.png,Tomato___Late_blight,
+2025-04-23 23:52:32,Screenshot 2025-04-23 231413.png,Tomato___Late_blight,
+2025-04-23 23:52:42,Screenshot 2025-04-23 230146.png,Tomato___Late_blight,
+2025-04-23 23:52:48,Screenshot 2025-04-23 231413.png,Tomato___Late_blight,
+2025-04-23 23:52:59,Screenshot 2025-04-23 231413.png,Tomato___Late_blight,
+2025-04-24 01:03:00,Screenshot 2025-04-23 231413.png,Tomato___Late_blight,
+2025-04-24 01:03:08,Tomato Septoria Leaf Spot2025-04-23 225605.png,Tomato___Septoria_leaf_spot,
+2025-04-24 01:03:22,Screenshot 2025-04-23 230146.png,Tomato___Late_blight,
+2025-04-24 01:03:28,Screenshot 2025-04-23 225838.png,Tomato___Late_blight,
+2025-04-24 01:04:42,Screenshot 2025-04-24 010352.png,Tomato___Late_blight,
+2025-04-24 01:06:11,Tomato Septoria Leaf_1.png,Tomato___Target_Spot,
+2025-04-24 01:07:23,Screenshot 2025-04-23 231413.png,Tomato___Late_blight,
+2025-04-24 01:07:30,Screenshot 2025-04-23 225838.png,Tomato___Late_blight,
+2025-04-24 01:09:40,Screenshot 2025-04-24 010835.png,Tomato___Late_blight,
+2025-04-24 01:09:53,Tomato Septoria Leaf Spot2025-04-23 225605.png,Tomato___Septoria_leaf_spot,
+2025-04-24 01:10:48,Tomato Septoria Leaf Spot 2025-04-24 010835.png,Tomato___Late_blight,
+2025-04-24 01:12:15,Screenshot 2025-04-24 011140.png,Tomato___Leaf_Mold,
+2025-04-24 01:13:24,Screenshot 2025-04-24 011254.png,Tomato___Late_blight,
+2025-04-24 01:15:27,Screenshot 2025-04-24 011443.png,Tomato___Late_blight,
+2025-04-24 01:16:29,Tomato Septoria Leaf Spot2025-04-23 225605.png,Tomato___Septoria_leaf_spot,
+2025-04-24 01:18:03,32f830f754bcd67d307c2ed352e9e779.jpg,Tomato___Tomato_Yellow_Leaf_Curl_Virus,
+2025-04-24 07:29:05,f5b4a026-a578-4dac-a3ba-fc960a573590___Com.G_TgS_FL 0811.JPG,Tomato___Target_Spot,
+2025-04-24 07:31:45,f63f3650-9f84-45f9-898b-a6adef0294a3___RS_Erly.B 8419.JPG,Tomato___Early_blight,
+2025-04-24 07:40:10,Tomato Septoria Leaf Spot2025-04-23 225605.png,Apple___Cedar_apple_rust,
+2025-04-24 07:41:29,Tomato Septoria Leaf Spot2025-04-23 225605.png,Tomato___Septoria_leaf_spot,
+2025-04-24 07:41:37,Screenshot 2025-04-23 230146.png,Tomato___Late_blight,
+2025-04-24 07:41:46,Screenshot 2025-04-23 225838.png,Tomato___Late_blight,
+2025-04-24 07:41:51,32f830f754bcd67d307c2ed352e9e779.jpg,Tomato___Tomato_Yellow_Leaf_Curl_Virus,
+2025-04-24 07:42:41,f7ab79a6-43d3-4ece-9461-43742519a221___RS_Erly.B 8290.JPG,Tomato___Early_blight,
+2025-04-24 12:53:25,f63f3650-9f84-45f9-898b-a6adef0294a3___RS_Erly.B 8419.JPG,Tomato___Early_blight,
+2025-04-24 13:00:12,f63f3650-9f84-45f9-898b-a6adef0294a3___RS_Erly.B 8419.JPG,Tomato___Early_blight,
+2025-04-24 13:00:44,fe20bf11-9be6-480c-8c99-b7b391ac9653___GHLB_PS Leaf 44.2 Day 18.jpg,Tomato___Late_blight,
+2025-04-24 13:00:58,ff03c1b7-ae44-4b97-b0c8-ec2c6ca7f4e5___GHLB2ES Leaf 63.1.JPG,Tomato___Late_blight,
+2025-04-24 13:02:02,d398ca36-5b67-4690-a2d2-53380e63c4bb___PSU_CG 2085.JPG,Tomato___Tomato_mosaic_virus,
+2025-04-24 13:02:56,d6e833a9-cf89-4d75-a524-7a52356b08de___PSU_CG 2358.JPG,Tomato___Tomato_mosaic_virus,
+2025-04-24 13:03:06,d6e833a9-cf89-4d75-a524-7a52356b08de___PSU_CG 2358.JPG,Tomato___Tomato_mosaic_virus,
+2025-04-24 13:03:39,f4ec991a-6296-4b84-ba9b-4abdbffcb4e9___Com.G_TgS_FL 9804.JPG,Tomato___Target_Spot,
+2025-04-24 13:03:54,f6f5c1f8-beed-4eb2-8366-5aed3c9b27bc___Com.G_TgS_FL 0033.JPG,Tomato___Bacterial_spot,
+2025-04-24 13:05:10,f6f5c1f8-beed-4eb2-8366-5aed3c9b27bc___Com.G_TgS_FL 0033.JPG,Tomato___Bacterial_spot,
+2025-04-24 13:05:51,f9f35406-f925-4c34-a1f5-0f73563033a0___RS_Erly.B 7570.JPG,Tomato___Early_blight,
+2025-04-24 13:06:57,fc85aff8-ee7e-4da3-b354-3ad6069a3a34___JR_Sept.L.S 8550.JPG,Tomato___Septoria_leaf_spot,
+2025-04-24 13:10:14,Tomato Septoria Leaf Spot2025-04-23 225605.png,Tomato___Septoria_leaf_spot,
+2025-04-24 13:10:28,Screenshot 2025-04-23 230146.png,Tomato___Late_blight,
+2025-04-24 20:05:05,f5cef24e-7c7d-4394-b6b8-bf183f23eb74___Com.G_TgS_FL 0674.JPG,Tomato___Target_Spot,
+2025-04-24 20:07:14,f5cef24e-7c7d-4394-b6b8-bf183f23eb74___Com.G_TgS_FL 0674.JPG,Tomato___Target_Spot,
+2025-04-24 20:08:45,fdf69afe-75b7-4909-9175-57cc7ff96ac4___YLCV_GCREC 2605.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,
+2025-04-24 20:19:14,c883bf3a-7ad1-428c-aaa7-cecc51ddbd5d___Com.G_TgS_FL 9702.JPG,Tomato___Target_Spot,
+2025-04-25 00:53:00,Tomato Septoria Leaf Spot2025-04-23 225605.png,Tomato___Septoria_leaf_spot,
+2025-04-27 02:19:41,6078710516023296.jpeg,Tomato___Early_blight,
+2025-04-27 02:19:51,6078710516023296.jpeg,Tomato___Early_blight,
+2025-04-27 02:20:38,septoria_leaf_spot_of_tomato187.jpg,Tomato___Late_blight,
+2025-04-27 02:20:57,Tomato Septoria Leaf Spot2025-04-23 225605.png,Tomato___Septoria_leaf_spot,
+2025-04-27 02:21:04,septoria_leaf_spot_of_tomato187.jpg,Tomato___Late_blight,
+2025-04-27 02:28:57,32f830f754bcd67d307c2ed352e9e779.jpg,Tomato___Late_blight,1.0
+2025-04-27 02:29:21,septoria_leaf_spot_of_tomato187.jpg,Tomato___Late_blight,1.0
+2025-04-27 02:29:36,Tomato Septoria Leaf Spot2025-04-23 225605.png,Tomato___Septoria_leaf_spot,1.0
+2025-04-27 02:31:02,5114949114265600.jpeg,Tomato___Late_blight,1.0
+2025-04-27 02:31:59,tomato-late-blight-tomato-1556463954.jpg,Tomato___Late_blight,1.0
+2025-04-27 02:36:15,7262-drought.jpg,Tomato___Late_blight,1.0
+2025-04-27 02:54:51,tomato-late-blight-tomato-1556463954.jpg,Tomato___Late_blight,1.0
+2025-04-27 02:56:16,7262-drought.jpg,Tomato___Late_blight,1.0
+2025-04-27 02:57:17,Image-showing-a-tomato-leaf-infected-with-early-blight-Source-Image-taken-from-Plant.png,Tomato___Late_blight,1.0
+2025-04-27 02:58:55,Early Blight.jpeg,Tomato___Late_blight,1.0
+2025-04-27 03:00:18,alternariasol1.jpg,Tomato___Early_blight,1.0
+2025-04-27 17:10:10,tomato-late-blight-tomato-1556463954.jpg,Tomato___Late_blight,1.0
+2025-04-27 17:10:41,alternariasol1.jpg,Tomato___Early_blight,1.0
+2025-04-27 17:16:40,tomato_bacterial_spot2_color.jpg,Tomato___Late_blight,1.0
+2025-04-27 17:17:06,7262-drought.jpg,Tomato___Late_blight,1.0
+2025-04-27 17:18:59,Bacterial Spot_images.jpeg,Tomato___Early_blight,1.0
+2025-04-27 17:20:06,mosiac_virus.jpg,Tomato___Early_blight,1.0
+2025-04-27 17:21:38,bacterial-spot.jpg,Tomato___Late_blight,1.0
+2025-04-27 17:21:56,Tomato Septoria Leaf Spot2025-04-23 225605.png,Tomato___Septoria_leaf_spot,1.0
+2025-04-27 17:22:06,alternariasol1.jpg,Tomato___Early_blight,1.0
+2025-04-27 17:22:41,540777_1_En_7_Fig10_HTML.png,Tomato___Septoria_leaf_spot,1.0
+2025-04-27 17:23:46,bls5x2400-10hrvsi.jpg,Tomato___Late_blight,1.0
+2025-04-27 17:25:26,omafra-bacterial-diseases-of-tomato-figure-12-en-4032x2688-2021-12-09-v1.jpg,Tomato___Late_blight,1.0
+2025-04-27 17:27:40,hotline_tomato_bacterial_spot.jpeg,Tomato___Late_blight,1.0
+2025-04-27 17:30:02,5260029.jpg,Tomato___Late_blight,1.0
+2025-04-27 17:32:04,hgic_veg_bacterial leaf spot_pepper_800.jpg,Tomato___Late_blight,1.0
+2025-04-27 17:41:39,Tomato_Bacterial_Leaf_Spot_3.webp,Tomato___Late_blight,1.0
+2025-04-27 17:44:22,Tomato Septoria Leaf Spot2025-04-23 225605.png,Tomato___Septoria_leaf_spot,1.0
+2025-04-27 17:46:18,Tomato_Bacterial_Spot_2.jpeg,Tomato___Early_blight,1.0
+2025-04-27 17:51:27,tomato_target_spot.jpeg,Tomato___Late_blight,1.0
+2025-04-27 17:53:34,img_4795.jpg,Tomato___Early_blight,0.94
+2025-04-27 17:55:48,target-spot-of-tomato-1.jpg,Tomato___Late_blight,1.0
+2025-04-27 18:01:48,thumb.jpg,Tomato___Tomato_mosaic_virus,1.0
+2025-04-27 18:04:31,8226402877-38b85d3ed4-o_orig.jpg,Tomato___Late_blight,1.0
+2025-04-27 18:07:06,early-blight-tomatoes-1200x746-1.jpg,Tomato___Late_blight,1.0
+2025-04-27 18:09:40,tomato-blight-leaf-lesions-underside-768x579.png,Tomato___Early_blight,1.0
+2025-04-27 18:10:49,late_blight.jpeg,Tomato___Early_blight,1.0
+2025-04-27 18:12:57,Tomato_spider_mites.jpg,Tomato___Early_blight,1.0
+2025-04-27 18:13:55,thumb.jpg,Tomato___Tomato_mosaic_virus,1.0
+2025-04-27 18:16:12,images.jpeg,Tomato___Early_blight,1.0
+2025-04-27 18:17:13,thumb.jpg,Tomato___Septoria_leaf_spot,1.0
+2025-04-27 18:22:45,fdce96d3-64ce-49a6-ade4-1f812fef12f8___YLCV_GCREC 5181.JPG,Tomato___Septoria_leaf_spot,1.0
+2025-04-27 18:26:56,tomato-yellow-leaf-curl-virus.jpg,Tomato___Late_blight,1.0
+2025-04-27 23:31:18,alternariasol1.jpg,Tomato___Early_blight,1.0
+2025-04-27 23:34:03,Tomato Septoria Leaf Spot2025-04-23 225605.png,Tomato___Septoria_leaf_spot,1.0
+2025-04-27 23:41:33,7262-drought.jpg,Tomato___Late_blight,1.00
